@@ -1,6 +1,6 @@
 # Data Analysis Internship at Elevvo
 
-Tasks completed during my Data Analysis internship at Elevvo. Each task has its own folder.
+Here are tasks completed during my Data Analysis internship at Elevvo. Each task has its own folder.
 
 | Task | Topic | Folder |
 |------|-------|--------|
