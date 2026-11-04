@@ -41,7 +41,6 @@ The task suggests Indeed as an example. I checked first:
 | Zurich | 43 | Python 28%, Agile 19%, Jira 16%, Kubernetes 14%, C++ 14% |
 | Paris | 36 | Logistics 25%, Kubernetes 19%, TypeScript 19%, Python 17%, AWS 17% |
 
-[Add one sentence from the concentration check, for example whether a skill came from a few companies.]
 
 ## Charts
 ![Top skills and roles](images/top_skills_and_roles.png)
