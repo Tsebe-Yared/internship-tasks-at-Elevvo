@@ -21,7 +21,7 @@ Titanic: Machine Learning from Disaster (Kaggle), `train.csv`. 891 passengers, 1
 - Survival correlates with Pclass (-0.34), HasCabin (+0.32), Fare (+0.26). These overlap, since all relate to wealth.
 - Gender and Survived correlation: 0.54
 
-## Visuals
+## Visuals (Bonus tasks)
 ![Survival by class and gender](images/survival_gender_class.png)
 ![Survival heatmap](images/survival_heatmap.png)
 
