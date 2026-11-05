@@ -20,7 +20,7 @@ Computers work better with numbers than words, so I converted answers in three w
 - **Label encoding:** for answers with no order. Each country or job gets an ID number, like a jersey number. The ID is just a name tag, not an amount.
 - **Yes/No columns (0 or 1):** for "select all that apply" questions. Example: a person who uses Python and SQL gets 1 in the Python column, 1 in the SQL column, and 0 for every other language.
 
-## Top 5 insights
+## Top 5 insights (Bonus task)
 1. **Python and SQL are the most used languages:** Python 88.8%, SQL 43.7%, R 21.7%.
 2. **More experience means more tools:** SQL use grows from 34.2% (under 1 year of coding) to 54.4% (20+ years).
 3. **Most respondents come from India (28.6%) and the USA (10.2%).** 80.4% are men.
