@@ -20,7 +20,7 @@ Superstore Dataset (Kaggle, vivek468). 9,994 orders, 2014 to 2017.
 - Total profit: $286,397
 - Best region: West ($725,458
 - Best category: Technology ($836,154)
-- YoY change: 2015 [-2.8%], 2016 [+29.5%], 2017 [+20.4%]
+- YoY change: 2015 [-2.8%], 2016 [+29.5%], 2017 [+20.4%] (Bonus task)
 - Sales peak in: Q4 (September, November, and December)
 
 ## Dashboard
