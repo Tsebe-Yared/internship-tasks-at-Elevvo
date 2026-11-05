@@ -1,0 +1,6 @@
+,MAPE_pct
+level_x_season,1.53
+exp_smooth_x_season,1.61
+seasonal_naive,2.28
+naive_last,5.48
+rolling_mean_3,5.62
