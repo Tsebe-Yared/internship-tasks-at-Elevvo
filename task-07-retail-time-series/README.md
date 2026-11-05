@@ -36,7 +36,7 @@ A month has 4 or 5 Fridays, so a 5-week month looks bigger just because it has a
 - **Store types:** A earns 64.3% of revenue, B 29.7%, C 6.0%, and these shares barely changed over the period. Average monthly sales per store: A 5.96M, B 3.56M, C 2.05M. Types differ in size, so this is not a measure of efficiency.
 - **Top 5 stores** (20, 4, 14, 13, 2) bring 21.5% of revenue; all are Type A.
 
-## Forecasting (bonus)
+## Forecasting (bonus task)
 Hid the last 12 months (Nov 2011 to Oct 2012), forecast them from the first 21, and compared. Seasonal indices and levels used only the training months, and the smoothing weight (0.3) was fixed in advance.
 
 | Method | Average error (MAPE) |
