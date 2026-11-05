@@ -40,7 +40,7 @@ Online Retail (UCI). UK online shop transactions, Dec 2010 to Dec 2011. 541,909 
 | Hibernating | Low-cost automated re-engagement email. |
 | Lost | One last offer or survey, then stop. |
 
-## Visuals
+## Visuals (Bonus tasks)
 ![Segment size and revenue](images/segment_size_revenue.png)
 ![RFM heatmaps](images/rfm_heatmaps.png)
 
