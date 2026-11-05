@@ -42,7 +42,7 @@ The task suggests Indeed as an example. I checked first:
 | Paris | 36 | Logistics 25%, Kubernetes 19%, TypeScript 19%, Python 17%, AWS 17% |
 
 
-## Charts
+## Charts (Bonus task)
 ![Top skills and roles](images/top_skills_and_roles.png)
 ![Skills by city](images/skills_by_city_heatmap.png)
 
