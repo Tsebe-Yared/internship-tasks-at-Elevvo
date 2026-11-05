@@ -33,7 +33,7 @@ A JOIN uses the matching ID numbers to connect one table to the next.
 - **Genre labels overlap** (for example "Metal" and "Heavy Metal"). I kept them as they are in the data.
 - **The database has no region column**, so I created regions from countries with a CASE statement.
 
-## Window functions (bonus)
+## Window functions (Bonus task)
 - `ROW_NUMBER`, `RANK` and `DENSE_RANK` compared on tied top tracks: ROW_NUMBER counts 1, 2, 3 even for ties, RANK gives ties the same rank and then skips, and DENSE_RANK gives ties the same rank without skipping.
 - `ROW_NUMBER` with `PARTITION BY genre` to get the top 3 tracks inside each genre.
 - `LAG` to calculate month-over-month change, and `SUM() OVER` for a running total (it ends at 2,328.60, matching the total).
