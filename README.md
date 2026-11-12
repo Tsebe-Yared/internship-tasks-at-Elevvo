@@ -11,3 +11,4 @@ Here are tasks completed during my Data Analysis internship at Elevvo. Each task
 | 5 | SQL-Based Analysis of Product Sales | [task-05-sql-sales-analysis](task-05-sql-sales-analysis) |
 | 6 | Web Scraping and Analysis of Job Postings | [task-06-job-scraping](task-06-job-scraping) |
 | 7 | Time Series Breakdown of Retail Sales | [task-07-retail-time-series](task-07-retail-time-series) |
+| 8 | Power BI Dashboard for Retail Insights | [task-08-powerbi-retail](task-08-powerbi-retail) |
